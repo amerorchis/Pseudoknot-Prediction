@@ -1,0 +1,349 @@
+accession,length,kingdom,accurate_prediction,time_ms,miss_type,hit_type
+238537949,8,Unknown Kingdom,True,42.22,None,TrueNeg
+AF452049,34,Viruses,True,105.92,None,TruePos
+V00588,47,Eukaryota,False,466.00,FalseNeg,None
+16974989,9,Unknown Kingdom,True,40.80,None,TrueNeg
+2780825,12,Bacteria,True,46.32,None,TrueNeg
+X72586,39,Viruses,False,175.99,FalseNeg,None
+M64479,27,Viruses,True,54.27,None,TruePos
+L22089,26,Viruses,False,53.33,FalseNeg,None
+X76931,39,Viruses,False,170.79,FalseNeg,None
+1000232479,22,Eukaryota,True,44.07,None,TrueNeg
+2029233337,35,Eukaryota,True,111.31,None,TrueNeg
+672886787,7,Unknown Kingdom,True,40.84,None,TrueNeg
+187609363,23,Unknown Kingdom,True,50.52,None,TrueNeg
+2612389276,6,Unknown Kingdom,True,45.12,None,TrueNeg
+334359386,11,Unknown Kingdom,True,43.78,None,TrueNeg
+J04374,41,Viruses,True,223.11,None,TruePos
+34810732,6,Unknown Kingdom,True,40.10,None,TrueNeg
+K01993,19,Bacteria,False,47.25,FalseNeg,None
+326634449,6,Unknown Kingdom,True,46.34,None,TrueNeg
+224983366,7,Eukaryota,True,43.59,None,TrueNeg
+L04573,41,Viruses,True,221.66,None,TruePos
+159795127,12,Unknown Kingdom,True,40.16,None,TrueNeg
+662702211,12,Unknown Kingdom,True,45.34,None,TrueNeg
+9257118,11,Unknown Kingdom,False,45.92,FalseNeg,None
+1041576573,8,Unknown Kingdom,True,44.74,None,TrueNeg
+973744411,8,Eukaryota,True,44.24,None,TrueNeg
+AF190581,40,Viruses,True,196.61,None,TruePos
+927774418,12,Unknown Kingdom,True,42.29,None,TrueNeg
+U03387,37,Viruses,True,138.43,None,TruePos
+J04375,40,Viruses,True,193.06,None,TruePos
+AJ223598,41,Viruses,False,216.99,FalseNeg,None
+1581447341,2,Bacteria,True,40.22,None,TrueNeg
+AF033807,49,Viruses,True,580.36,None,TruePos
+AF035199,42,Viruses,True,245.60,None,TruePos
+940376663,12,Unknown Kingdom,True,40.35,None,TrueNeg
+M25381,50,Viruses,True,654.76,None,TruePos
+157879740,11,Unknown Kingdom,True,39.90,None,TrueNeg
+AF018156,39,Viruses,True,179.48,None,TruePos
+1059271651,8,Eukaryota,True,39.73,None,TrueNeg
+158430560,13,Unknown Kingdom,True,44.92,None,TrueNeg
+CY018761,49,Viruses,False,585.74,FalseNeg,None
+973744410,8,Eukaryota,True,39.59,None,TrueNeg
+2612389273,6,Unknown Kingdom,True,44.59,None,TrueNeg
+M81413,32,Viruses,True,84.27,None,TruePos
+AF035402,40,Viruses,True,194.21,None,TruePos
+M34077,33,Viruses,True,86.75,None,TruePos
+576865165,8,Unknown Kingdom,False,42.54,FalseNeg,None
+X72587,38,Viruses,False,155.09,FalseNeg,None
+198443238,16,Unknown Kingdom,True,40.49,None,TrueNeg
+AF352025,41,Viruses,True,218.51,None,TruePos
+1130619291,10,Unknown Kingdom,True,40.05,None,TrueNeg
+2281651770,4,Unknown Kingdom,True,44.67,None,TrueNeg
+X12460,33,Unknown Kingdom,True,91.25,None,TruePos
+M14707,29,Viruses,True,61.01,None,TruePos
+M32974,20,Unknown Kingdom,False,42.34,FalseNeg,None
+528082216,23,Eukaryota,True,50.26,None,TrueNeg
+AJ223597,40,Viruses,False,192.72,FalseNeg,None
+M13899,45,Eukaryota,False,366.28,FalseNeg,None
+334359388,8,Unknown Kingdom,True,40.05,None,TrueNeg
+U64950,50,Unknown Kingdom,False,667.83,FalseNeg,None
+349587557,8,Eukaryota,True,39.85,None,TrueNeg
+Y07862,45,Viruses,False,364.28,FalseNeg,None
+349587563,6,Eukaryota,True,39.94,None,TrueNeg
+1111652083,13,Unknown Kingdom,True,44.78,None,TrueNeg
+1474892506,2,Unknown Kingdom,True,45.45,None,TrueNeg
+1938910304,2,Unknown Kingdom,True,44.63,None,TrueNeg
+AJ299445,34,Viruses,True,100.02,None,TruePos
+AF033818,47,Viruses,False,446.49,FalseNeg,None
+2155220114,48,Unknown Kingdom,False,524.91,FalsePos,None
+5822553,7,Unknown Kingdom,True,39.46,None,TrueNeg
+1209040131,10,Eukaryota,True,44.73,None,TrueNeg
+2281651774,6,Unknown Kingdom,True,44.65,None,TrueNeg
+M25782,39,Viruses,False,175.18,FalseNeg,None
+M27472,46,Viruses,False,405.82,FalseNeg,None
+20151199,28,Unknown Kingdom,True,56.92,None,TruePos
+2073954629,14,Viruses,True,40.11,None,TrueNeg
+695721938,5,Unknown Kingdom,True,45.06,None,TrueNeg
+X52374,46,Viruses,False,413.41,FalseNeg,None
+M31768,18,Viruses,False,40.87,FalseNeg,None
+2GIS,50,Unknown Kingdom,True,655.77,None,TruePos
+906848908,8,Unknown Kingdom,True,39.82,None,TrueNeg
+AF035202,42,Viruses,True,249.39,None,TruePos
+X54354,42,Viruses,False,245.41,FalseNeg,None
+U64961,50,Unknown Kingdom,False,666.99,FalseNeg,None
+X53500,48,Unknown Kingdom,True,521.16,None,TruePos
+1581447702,3,Unknown Kingdom,True,39.76,None,TrueNeg
+1685822098,2,Unknown Kingdom,True,46.86,None,TrueNeg
+2XDB_G,40,Unknown Kingdom,True,195.71,None,TruePos
+X13063,50,Viruses,True,646.11,None,TruePos
+1474892503,2,Unknown Kingdom,True,40.11,None,TrueNeg
+J02399,26,Viruses,False,55.87,FalseNeg,None
+X03686,35,Viruses,True,109.29,None,TruePos
+AY751778,26,Viruses,False,51.05,FalseNeg,None
+L07937,41,Viruses,True,219.53,None,TruePos
+D12505,33,Viruses,False,86.65,FalseNeg,None
+170292391,7,Eukaryota,True,43.66,None,TrueNeg
+1914285340,8,Unknown Kingdom,True,44.96,None,TrueNeg
+NC_011108,41,Viruses,False,218.72,FalseNeg,None
+723586763,27,Unknown Kingdom,True,53.38,None,TrueNeg
+AJ223596,41,Viruses,False,218.00,FalseNeg,None
+U91413,42,Viruses,False,246.15,FalseNeg,None
+1938945873,2,Viruses,False,39.58,FalseNeg,None
+2072556357,7,Unknown Kingdom,True,44.58,None,TrueNeg
+X02144,32,Viruses,True,83.54,None,TruePos
+L07269,40,Viruses,False,192.32,FalseNeg,None
+927774422,12,Unknown Kingdom,True,39.94,None,TrueNeg
+AF117327,45,Eukaryota,False,367.55,FalseNeg,None
+D30753,38,Viruses,True,150.22,None,TruePos
+254839363,7,Unknown Kingdom,True,40.71,None,TrueNeg
+EU787450,50,Viruses,False,649.16,FalseNeg,None
+1033647785,10,Unknown Kingdom,True,39.72,None,TrueNeg
+2281651776,11,Unknown Kingdom,True,45.07,None,TrueNeg
+AF035201,42,Viruses,True,250.28,None,TruePos
+157884250,9,Unknown Kingdom,True,39.71,None,TrueNeg
+558705015,21,Unknown Kingdom,True,47.35,None,TrueNeg
+988087248,6,Unknown Kingdom,True,44.52,None,TrueNeg
+X14764,11,Unknown Kingdom,False,44.54,FalseNeg,None
+157883684,6,Unknown Kingdom,True,43.66,None,TrueNeg
+M20301,25,Viruses,True,52.52,None,TruePos
+1111652283,15,Unknown Kingdom,False,41.72,FalseNeg,None
+V01104,48,Viruses,False,521.44,FalseNeg,None
+4389459,8,Unknown Kingdom,True,39.16,None,TrueNeg
+1000232475,8,Unknown Kingdom,True,43.90,None,TrueNeg
+X16378,41,Viruses,True,221.90,None,TruePos
+J02413,32,Viruses,True,77.54,None,TruePos
+342351159,17,Unknown Kingdom,True,41.32,None,TrueNeg
+1214654052,14,Unknown Kingdom,True,44.72,None,TrueNeg
+5542559,7,Unknown Kingdom,True,43.72,None,TrueNeg
+1752309887,8,Eukaryota,True,44.56,None,TrueNeg
+2367145068,33,Unknown Kingdom,True,90.91,None,TrueNeg
+U64952,50,Unknown Kingdom,False,655.74,FalseNeg,None
+U30944,37,Viruses,True,132.94,None,TruePos
+V00099,26,Viruses,False,50.54,FalseNeg,None
+82407872,11,Unknown Kingdom,True,42.90,None,TrueNeg
+2665695868,12,Unknown Kingdom,True,45.30,None,TrueNeg
+78101203,26,Unknown Kingdom,True,54.64,None,TruePos
+304445962,10,Unknown Kingdom,True,42.93,None,TrueNeg
+1153684319,14,Unknown Kingdom,True,44.77,None,TrueNeg
+126030507,8,Unknown Kingdom,True,45.19,None,TrueNeg
+X03854,33,Viruses,True,90.64,None,TruePos
+551702066,9,Unknown Kingdom,True,40.63,None,TrueNeg
+U34586,22,Viruses,False,48.90,FalseNeg,None
+JX848617,44,Viruses,True,319.40,None,TruePos
+939186253,10,Eukaryota,True,39.78,None,TrueNeg
+X81639,40,Viruses,True,197.57,None,TruePos
+M31182,18,Viruses,False,40.82,FalseNeg,None
+1781382364,3,Eukaryota,True,44.81,None,TrueNeg
+2254017694,23,Eukaryota,True,49.73,None,TrueNeg
+NC_000874,43,Viruses,False,273.81,FalseNeg,None
+Y07496,39,Viruses,False,168.98,FalseNeg,None
+927774420,12,Unknown Kingdom,True,40.26,None,TrueNeg
+AY593751,30,Viruses,True,69.43,None,TruePos
+1938910698,2,Unknown Kingdom,True,40.15,None,TrueNeg
+40889311,10,Unknown Kingdom,True,44.65,None,TrueNeg
+3745833,12,Unknown Kingdom,True,45.56,None,TrueNeg
+2095359705,13,Bacteria,True,43.45,None,TrueNeg
+AF146278,28,Viruses,True,61.85,None,TruePos
+J02513,28,Unknown Kingdom,True,57.55,None,TruePos
+D38444,37,Viruses,True,137.48,None,TruePos
+AF035200,42,Viruses,False,243.84,FalseNeg,None
+2245356138,8,Unknown Kingdom,True,39.55,None,TrueNeg
+2500114411,12,Unknown Kingdom,True,44.58,None,TrueNeg
+1784437938,7,Unknown Kingdom,True,44.80,None,TrueNeg
+951272585,32,Unknown Kingdom,True,86.36,None,TrueNeg
+2211073430,12,Unknown Kingdom,True,40.37,None,TrueNeg
+U64512,41,Viruses,False,220.61,FalseNeg,None
+AY593807,25,Viruses,False,48.36,FalseNeg,None
+256032678,6,Unknown Kingdom,True,43.09,None,TrueNeg
+1023176389,8,Unknown Kingdom,True,44.42,None,TrueNeg
+L25299,39,Viruses,False,173.11,FalseNeg,None
+X99149,40,Viruses,False,191.09,FalseNeg,None
+EF467822,41,Viruses,True,217.04,None,TruePos
+2431412813,12,Unknown Kingdom,True,39.52,None,TrueNeg
+1581447438,18,Bacteria,True,46.05,None,TrueNeg
+756142651,3,Unknown Kingdom,True,44.94,None,TrueNeg
+1285033643,18,Unknown Kingdom,True,46.71,None,TrueNeg
+1983831438,20,Eukaryota,True,43.89,None,TrueNeg
+2618981943,5,Unknown Kingdom,True,44.34,None,TrueNeg
+AJ238799,34,Viruses,False,98.08,FalseNeg,None
+GU245693,50,Viruses,False,658.65,FalseNeg,None
+1806061731,4,Eukaryota,True,39.58,None,TrueNeg
+2431412803,14,Unknown Kingdom,True,44.76,None,TrueNeg
+2046389004,8,Bacteria,True,45.51,None,TrueNeg
+M81486,35,Viruses,True,110.45,None,TruePos
+939186687,19,Eukaryota,True,41.42,None,TrueNeg
+918453205,9,Unknown Kingdom,True,44.59,None,TrueNeg
+358439716,10,Unknown Kingdom,True,47.47,None,TrueNeg
+394986302,4,Unknown Kingdom,True,44.86,None,TrueNeg
+510102159,11,Unknown Kingdom,True,45.24,None,TrueNeg
+Y16104,40,Viruses,True,194.87,None,TruePos
+D00530,39,Viruses,False,169.50,FalseNeg,None
+AF035633,40,Viruses,False,190.48,FalseNeg,None
+Z66493,41,Viruses,False,217.22,FalseNeg,None
+M81861,25,Viruses,True,48.41,None,TruePos
+Z97873,41,Viruses,False,222.16,FalseNeg,None
+1209040501,12,Unknown Kingdom,True,39.95,None,TrueNeg
+224510941,6,Unknown Kingdom,True,44.82,None,TrueNeg
+2512655930,14,Unknown Kingdom,False,45.49,FalseNeg,None
+347447390,16,Unknown Kingdom,True,44.13,None,TrueNeg
+M62321,12,Viruses,False,45.03,FalseNeg,None
+X00871,25,Viruses,True,52.89,None,TruePos
+288563035,6,Unknown Kingdom,True,41.41,None,TrueNeg
+1685822094,2,Unknown Kingdom,True,44.75,None,TrueNeg
+X69721,47,Viruses,False,462.91,FalseNeg,None
+X04415,42,Viruses,False,246.75,FalseNeg,None
+U15440,47,Viruses,False,468.91,FalseNeg,None
+NC_001555,21,Viruses,False,42.96,FalseNeg,None
+V01416,11,Unknown Kingdom,False,45.03,FalseNeg,None
+1790883287,3,Bacteria,True,45.38,None,TrueNeg
+E05133,46,Bacteria,False,408.27,FalseNeg,None
+X78602,40,Viruses,False,191.00,FalseNeg,None
+1685822090,2,Unknown Kingdom,True,39.58,None,TrueNeg
+NC_002598,38,Viruses,True,158.79,None,TruePos
+L02971,35,Viruses,True,106.80,None,TruePos
+316983326,8,Unknown Kingdom,True,40.54,None,TrueNeg
+NC_003546,70,Viruses,False,5222.69,FalseNeg,None
+AJ557128,57,Viruses,True,1433.82,None,TruePos
+2045490163,66,Viruses,True,3589.32,None,TruePos
+U68074,52,Bacteria,False,841.15,FalseNeg,None
+AB084788,60,Viruses,False,1986.16,FalseNeg,None
+NC_003480,65,Viruses,False,3308.76,FalseNeg,None
+GU182410,60,Viruses,False,1971.48,FalseNeg,None
+U27345,55,Unknown Kingdom,False,1167.80,FalseNeg,None
+NC_003453,63,Viruses,False,2697.23,FalseNeg,None
+453056070,67,Unknown Kingdom,False,3943.70,FalseNeg,None
+BK006878,82,Unknown Kingdom,True,14368.68,None,TruePos
+X02543,60,Bacteria,False,1992.51,FalseNeg,None
+2QWY,52,Unknown Kingdom,False,821.53,FalseNeg,None
+AF037268,75,Viruses,False,8039.18,FalseNeg,None
+CY014592,64,Viruses,True,2949.19,None,TruePos
+JN088541,60,Viruses,False,1963.72,FalseNeg,None
+NC_003833,70,Viruses,False,5223.02,FalseNeg,None
+M54993,61,Viruses,False,2201.43,FalseNeg,None
+NC_006568,65,Viruses,False,3317.05,FalseNeg,None
+AF283103,62,Viruses,True,2415.22,None,TruePos
+BK006879,81,Unknown Kingdom,True,13143.63,None,TruePos
+AF178440,64,Viruses,True,2962.12,None,TruePos
+NC_008708,65,Viruses,False,3260.23,FalseNeg,None
+J02638,67,Bacteria,True,3979.54,None,TruePos
+D10032,62,Viruses,True,2412.20,None,TruePos
+X93351,72,Viruses,True,6196.97,None,TruePos
+AF218039,64,Viruses,True,2961.53,None,TruePos
+M11841,52,Viruses,True,809.83,None,TruePos
+AJ557129,57,Viruses,True,1418.10,None,TruePos
+M26927,61,Viruses,True,2223.95,None,TruePos
+M33854,73,Viruses,False,6587.75,FalseNeg,None
+M29095,84,Viruses,False,16293.18,FalseNeg,None
+NC_001437,57,Viruses,False,1446.12,FalseNeg,None
+AF183905,67,Viruses,True,3904.02,None,TruePos
+NC_001452,68,Viruses,True,4296.45,None,TruePos
+BK006885,63,Unknown Kingdom,True,2719.73,None,TruePos
+AJ006464,66,Eukaryota,True,3540.65,None,TruePos
+4QK9_A,75,Unknown Kingdom,False,8034.14,FalseNeg,None
+AF339486,70,Viruses,True,5165.05,None,TruePos
+NC_000913,64,Bacteria,True,2940.46,None,TruePos
+J02415,67,Viruses,True,3958.37,None,TruePos
+BK006895,67,Viruses,True,3866.33,None,TruePos
+U17391,60,Viruses,False,1972.65,FalseNeg,None
+J01998,62,Viruses,True,2395.52,None,TruePos
+M16632,55,Viruses,False,1152.08,FalseNeg,None
+AJ537493,62,Viruses,False,2405.82,FalseNeg,None
+BK006881,60,Unknown Kingdom,True,1943.75,None,TruePos
+NC_008038,63,Viruses,False,2682.03,FalseNeg,None
+CP009796,75,Unknown Kingdom,False,8080.23,FalseNeg,None
+AJ508757,59,Viruses,True,1752.78,None,TruePos
+BK006891,60,Unknown Kingdom,False,1937.80,FalseNeg,None
+D10706,70,Unknown Kingdom,True,5099.57,None,TruePos
+X57540,63,Viruses,True,2637.95,None,TruePos
+BK006880,82,Unknown Kingdom,True,14117.33,None,TruePos
+NW_876250,70,Unknown Kingdom,False,5207.53,FalseNeg,None
+U64955,60,Unknown Kingdom,False,1959.76,FalseNeg,None
+AB017037,64,Viruses,True,2922.50,None,TruePos
+BK006890,77,Unknown Kingdom,True,9561.48,None,TruePos
+AJ428554,61,Viruses,True,2192.18,None,TruePos
+BK006884,78,Unknown Kingdom,True,10173.37,None,TruePos
+S63967,70,Unknown Kingdom,False,5103.49,FalseNeg,None
+NC_000943,60,Viruses,False,2011.26,FalseNeg,None
+M28718,53,Unknown Kingdom,False,908.29,FalseNeg,None
+4QK8_A,70,Unknown Kingdom,True,5185.52,None,TruePos
+BK006894,69,Unknown Kingdom,False,4700.14,FalseNeg,None
+BK006883,66,Unknown Kingdom,True,3549.41,None,TruePos
+AF053964,63,Bacteria,False,2672.98,FalseNeg,None
+DQ860839,66,Viruses,True,3505.06,None,TruePos
+BK006893,60,Unknown Kingdom,True,1959.54,None,TruePos
+BK006887,64,Unknown Kingdom,True,2924.63,None,TruePos
+NC_006551,60,Viruses,False,1989.05,FalseNeg,None
+J01353,51,Unknown Kingdom,False,730.16,FalseNeg,None
+M96262,71,Viruses,False,5663.57,FalseNeg,None
+DQ811784,56,Viruses,True,1324.19,None,TruePos
+BK006897,88,Unknown Kingdom,True,21904.53,None,TruePos
+BK006886,64,Unknown Kingdom,True,2962.54,None,TruePos
+M10228,60,Viruses,True,1947.93,None,TruePos
+AF436853,76,Unknown Kingdom,False,8697.49,FalseNeg,None
+NC_011807,63,Viruses,False,2683.98,FalseNeg,None
+AY274504,55,Viruses,False,1148.90,FalseNeg,None
+NC_011553,65,Viruses,False,3268.27,FalseNeg,None
+AJ439690,62,Viruses,False,2393.29,FalseNeg,None
+BK006896,76,Unknown Kingdom,False,8612.45,FalseNeg,None
+BK006882,70,Unknown Kingdom,False,5109.85,FalseNeg,None
+U68079,55,Unknown Kingdom,True,1138.16,None,TruePos
+AB021078,63,Bacteria,False,2613.61,FalseNeg,None
+U21932,73,Unknown Kingdom,False,6643.08,FalseNeg,None
+U64957,65,Unknown Kingdom,False,3287.40,FalseNeg,None
+AF014388,64,Viruses,True,2922.16,None,TruePos
+3NPQ,54,Unknown Kingdom,True,1018.34,None,TruePos
+NC_008516,82,Viruses,False,14209.26,FalseNeg,None
+BK006892,60,Unknown Kingdom,False,1972.36,FalseNeg,None
+AY898809,57,Viruses,False,1438.75,FalseNeg,None
+Z54144,75,Eukaryota,False,8024.49,FalseNeg,None
+U31465,70,Unknown Kingdom,False,5137.69,FalseNeg,None
+AF022937,62,Viruses,True,2411.98,None,TruePos
+BK006889,68,Unknown Kingdom,True,4269.56,None,TruePos
+L13218,77,Viruses,True,9423.99,None,TruePos
+AB006531,64,Viruses,True,2912.68,None,TruePos
+AF033820,54,Viruses,False,1011.05,FalseNeg,None
+V00291,53,Bacteria,False,910.90,FalseNeg,None
+4QLM_A,70,Unknown Kingdom,False,5053.33,FalseNeg,None
+NC_006066,55,Viruses,False,1151.98,FalseNeg,None
+NC_003570,73,Viruses,False,6663.81,FalseNeg,None
+NC_005854,65,Viruses,True,3329.31,None,TruePos
+NC_004718,82,Viruses,True,14107.25,None,TruePos
+NC_009942,55,Viruses,False,1144.47,FalseNeg,None
+NM_013364,60,Eukaryota,False,1926.78,FalseNeg,None
+NC_003810,70,Viruses,False,5157.94,FalseNeg,None
+M63666,73,Viruses,True,6579.56,None,TruePos
+X64659,60,Unknown Kingdom,True,1967.82,None,TruePos
+X04451,89,Viruses,True,23830.43,None,TruePos
+NM_000579,65,Eukaryota,True,3306.61,None,TruePos
+M12294,96,Viruses,False,38417.00,FalseNeg,None
+AB085612,56,Viruses,False,1287.67,FalseNeg,None
+K01803,62,Viruses,True,2374.54,None,TruePos
+AY700211,56,Viruses,True,1301.71,None,TruePos
+AF033811,61,Viruses,True,2135.52,None,TruePos
+AF315122,70,Viruses,True,5144.44,None,TruePos
+NC_004364,63,Viruses,False,2688.53,FalseNeg,None
+M28621,70,Eukaryota,False,5099.29,FalseNeg,None
+NC_009536,70,Viruses,False,5133.40,FalseNeg,None
+AB040749,60,Viruses,False,1947.30,FalseNeg,None
+BK006888,68,Unknown Kingdom,True,4324.77,None,TruePos
+U16304,66,Viruses,False,3545.05,FalseNeg,None
+AF046869,72,Viruses,False,6202.75,FalseNeg,None
+NC_003844,60,Viruses,True,1980.53,None,TruePos
+K01778,116,Viruses,False,129676.88,FalseNeg,None
+J00219,120,Eukaryota,True,160526.50,None,TruePos
+Z46351,105,Viruses,False,67583.69,FalseNeg,None
+V01197,128,Viruses,True,244791.78,None,TruePos
+K03542,113,Viruses,False,108967.14,FalseNeg,None
+AF221907,121,Eukaryota,True,169517.04,None,TruePos
