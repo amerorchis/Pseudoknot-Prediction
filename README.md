@@ -2,8 +2,6 @@
 
 ## About The Project
 
-This module is for the final paper of Algorithms for Structural Bioinformatics.
-
 By Andrew Smith
 
 ### Prerequisites
